@@ -1,0 +1,7 @@
+
+- verbeteren van de error bericht als er geen twee values worden gegeven → pop up maken? 
+- standaard design van de dashboard aanpassen → wanneer deze leeg is = colspan 5 werkt niet
+- adding feature to change the symbol of dollar in € 
+- pouvoir check et uncheck les element
+- pouvoir supprimer les elemement de la liste et que ça modifie les chiffre
+- limite fonctione 
